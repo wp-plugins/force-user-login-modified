@@ -1,5 +1,6 @@
 === Force User Login ===
-Contributors: Integer Development
+Contributors: Amazing Discoveries
+Original Contributors: Integer Development
 Donate Link: Don't worry about it
 Tags: force user login, login, password, privacy
 Requires at least: 2.0.2
