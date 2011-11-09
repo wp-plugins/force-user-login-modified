@@ -4,13 +4,13 @@
 	Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
 	Description: A really small plugin that forces a user to login before being able to view any blog content.
 	Version: 1.0
-    Modification Author: Mateusz Sobczak
-    Modification Author URI: http://amazingdiscoveries.org
+	Author: Mateusz Sobczak
+	Author URI: http://amazingdiscoveries.org
 	Original Author: The Integer Group Development Team
 	Original Author URI: http://www.integer.com
 
-    Modification: use get_site_url() to redirect to the login page properly when
-    Wordpress is located in a subdirectory.
+	Modification: use get_site_url() to redirect to the login page properly when
+	Wordpress is located in a subdirectory.
 
 
 	Copyright 2009 The Integer Group Dev Team  (email : development@integerdenver.com)
