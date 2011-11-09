@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Force User Login
-	Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+	Plugin URI: http://wordpress.org/extend/plugins/force-user-login-modified/
 	Description: A really small plugin that forces a user to login before being able to view any blog content.
 	Version: 1.0
 	Author: Mateusz Sobczak
